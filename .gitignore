@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Training artifacts
+runs/
+*.log
+*.pt
+*.npy
+
+# OS
+.DS_Store
